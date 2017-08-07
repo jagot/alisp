@@ -48,7 +48,7 @@ void cat_strings(char* a, const char* b, const char* c)
 char* get_input()
 {
   char* input;
-  input = readline("al . ");
+  input = readline("αλ 》 ");
   if(!input) return NULL;
   
   int np;
